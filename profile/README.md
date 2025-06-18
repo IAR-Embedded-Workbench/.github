@@ -1,4 +1,4 @@
-# IAR Embedded Workbench Pro
+# IAR Embedded Workbench
 
 IAR Embedded Workbench Pro is a leading integrated development environment (IDE) for embedded systems, providing comprehensive tools for C/C++ programming, debugging, and optimization on various microcontrollers.
 
