@@ -60,10 +60,10 @@ IAR Embedded Workbench Pro is a leading integrated development environment (IDE)
 ### 🖼 Preview
 
 ![IAR Embedded Workbench IDE](https://i.ytimg.com/vi/-C2MjbJXAyw/maxresdefault.jpg)  
-*The main IAR Embedded Workbench IDE interface showcasing project development*
+
 
 ![IAR Debugger](https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/primary_images/1614644518.jpg)  
-*Advanced debugging session with real-time data visualization*
+
 
 ---
 
